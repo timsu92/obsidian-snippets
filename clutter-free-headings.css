@@ -15,7 +15,7 @@ div.HyperMD-header:not(.cm-active)>span.cm-header::before {
   margin-right: 0.75rem;
   overflow:visible;
   font-size: 0.75rem;
-  color: var(--text-muted);
+  color: var(--text-faint);
 }
 div.HyperMD-header-1:not(.cm-active)>span.cm-header-1::before {
   content: 'H1';
